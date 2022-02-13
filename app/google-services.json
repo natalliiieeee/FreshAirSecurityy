@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075853330324",
+    "project_id": "freshairsecurity",
+    "storage_bucket": "freshairsecurity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075853330324:android:d15bc012ac2227bd5eb181",
+        "android_client_info": {
+          "package_name": "ellehack2022.freshairsecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075853330324-4rlk7192iil3qi7m9nbg05a4ar507v90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0dDJd2oezWkmQsf4kAwNfo7Y2djVQs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075853330324-4rlk7192iil3qi7m9nbg05a4ar507v90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
